@@ -9,5 +9,8 @@ public class learnstring {
         float finalBalance = bankBalance - 50;
 
         System.out.printf("Name :" +name+ "age "+age);
+
+        System.out.printf("balance"+finalBalance);
+
     }
 }
